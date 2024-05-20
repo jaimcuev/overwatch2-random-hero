@@ -1,0 +1,14 @@
+[
+    {
+      "key": "damage",
+      "name": "Damage"
+    },
+    {
+        "key": "support",
+        "name": "Support"
+    },
+    {
+        "key": "tank",
+        "name": "Tank"
+    }
+]
